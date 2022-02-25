@@ -1,0 +1,523 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious exhortation to an holy life, or, A plea for the absolute necessity of inherent righteousness in those that hope to be saved by Tho. Wadsworth.</title>
+            <author>Wadsworth, Thomas, 1630-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65846</idno>
+            <idno type="STC">Wing W190</idno>
+            <idno type="STC">ESTC R23587</idno>
+            <idno type="EEBO-CITATION">07840599</idno>
+            <idno type="OCLC">ocm 07840599</idno>
+            <idno type="VID">40133</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40133)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1218:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious exhortation to an holy life, or, A plea for the absolute necessity of inherent righteousness in those that hope to be saved by Tho. Wadsworth.</title>
+                  <author>Wadsworth, Thomas, 1630-1676.</author>
+               </titleStmt>
+               <extent>[5], 60, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.I. for Andrew Kembe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew V, 20 --  Criticism, interpretation, etc.</term>
+               <term>Salvation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40133:1"/>
+            <pb facs="tcp:40133:1" rendition="simple:additions"/>
+            <p>A Serious Exhortation TO AN Holy Life. OR A Plea for the abſolute neceſſity of Inherent Righteouſneſs in thoſe that hope to be ſaved.</p>
+            <p>By <hi>Tho. Wadſworth,</hi> Preacher to the Church at <hi>Newington-Butts</hi> in <hi>Surrey.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Heb. 12.14.</hi>
+               </bibl>
+               <p>Follow peace with a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l men, and holineſs, without which no man ſhall ſee the Lord.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. I.</hi> for <hi>Andrew Kembe,</hi> at St. <hi>Margarets</hi> Hill in <hi>Southwark;</hi> And are to bee ſold under St. <hi>Marga<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ets</hi> Church on New-Fiſhſtreet Hill. 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:40133:2"/>
+            <pb facs="tcp:40133:2"/>
+            <head>TO My poor Pariſhoners of <hi>Newington-Butts,</hi> Whoſe ſouls are precious to my God and Saviour, and I dare ſay to mee.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He remembrance of the ſtrange Providences of my God, that were appa<g ref="char:EOLhyphen"/>rent in bringing mee to bee your Teacher, and have bearn mee company ever ſince in the work of my Miniſtry amongst you, makes mee think, I was born, and ſtill continue in the Land of the living for your ſakes, for the ſervice of your im<g ref="char:EOLhyphen"/>mortal ſouls, to help forward your ſalva<g ref="char:EOLhyphen"/>tion from that conſuming burning wrath
+<pb facs="tcp:40133:3"/>that hangs over your heads, till Chriſt bee formed in you, and your natur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s changed from what is earthly and ſen<g ref="char:EOLhyphen"/>ſual, to that which is divine; This Ex<g ref="char:EOLhyphen"/>hortation to an Holy life I ſend you, as be<g ref="char:EOLhyphen"/>ing very confident, that without it, not one of you ſhall ever ſee the face of God but to your ſhame and confuſion; if I preſs it hard upon your conſciences, blame mee not, for it is my full belief, you muſt bee damned without is, and my love and pitty to you conſtrains mee to do my beſt to pre<g ref="char:EOLhyphen"/>vent ſo ſad a judgement. If you wonder how I dare venture to ſpeak ſo much to you in Print; I tell you I dare do any thing for your ſakes, yea hazzard the re<g ref="char:EOLhyphen"/>putation of my diſcretion, rather than bee thought defective in my care to your ne<g ref="char:EOLhyphen"/>ver dying ſpirits. It comes not ſeldome to my thoughts, and lyeth not a little preſsing on my ſpirits, Ah what ſhall I do more for poor <hi>Newington</hi> to help them towards Heaven before I dye? ſomewhat I have done already, as many of you can bear mee witneſſe, when with prayers and tears, not onely publickly, but from one houſe to another, <hi>I have beſeeched you to bee reconciled unto God,</hi> and it is my
+<pb facs="tcp:40133:3"/>greatest grief I have found theſe ſix years ſince my coming amongſt you, that I have done no more; but alas, what ſhall I, or what can I do more? I would you could but tell mee; ſhall I come and live in all your Families, that I may bee continu<g ref="char:EOLhyphen"/>ally preſent to inſtruct, pray with, com<g ref="char:EOLhyphen"/>fort, reprove, and over-ſee you? this is all impoſsible, I am but one man, and can no more multiply my preſence, than I can my perſons; or ſhall I daily follow you from houſe to houſe? How can it bee? my more publick work is great abroad, and not ſmall at home, beſides the care of a ſelected people lyes upon mee, that preſſeth more than moſt men imagine, except them that feel it, and I am but a man, and have but the ſtrength of man, ſubject to bodily infirmities with my brethren. But however, I ſhall promiſe to do my beſt in this kind as I have begun, &amp; to ſupply the want of my conſtant preſence with you, I have ſent you my whole heart in Print, that it may ſpeak to you when I am abſent; it is but little, yet I intended it ſhould have been leſs, but it is well it is no more. Do but you accept it as kindely as it is offered, and improve it as faithfully, as it was
+<pb facs="tcp:40133:4"/>conſcientiouſly penned, and I ſhall deſire no more, being very confident it will then run and proſper; Which is the thing that is moſt earneſtly prayed for,</p>
+            <closer>
+               <signed>
+                  <hi>By him whom the Lord hath made your Teacher,</hi> Tho. Wadſworth.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:40133:4"/>
+            <head>A ſerious Exhortation to an Holy Life. OR, A Plea for the abſolute ne<g ref="char:EOLhyphen"/>ceſſity of Inherent Righteouſ<g ref="char:EOLhyphen"/>neſs in thoſe that hope to bee ſaved.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Matth. 5.20.</hi>
+                  </bibl>
+                  <p>I ſay unto you, That except your righteouſ<g ref="char:EOLhyphen"/>neſs ſhall exceed the righteouſneſs of the Scribes and Phariſees, you ſhall in no caſe enter into the Kingdome of Hea<g ref="char:EOLhyphen"/>ven.</p>
+               </q>
+            </epigraph>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">S</seg>Tay Reader, Thou haſt peruſed the Text, and canſt not but ſee that it concerns thy eternal life, or death. I prethee an<g ref="char:EOLhyphen"/>ſwer mee this one Queſtion, and then in the fear of God read on.</p>
+               <p>Reader, Thou art a dying man, or woman, Tell mee when thy breath is
+<pb n="2" facs="tcp:40133:5"/>gone, thy eyes cloſed, thy bell hath towled, and thy body coffined up for the grave, Then, Then, wouldeſt thou rather have thy ſoul in Heaven, or Hell, in joy, or torment, with God, or Devils? For Gods ſake make a pauſe, and give mee thine anſwer before thou doſt pro<g ref="char:EOLhyphen"/>ceed. Tell mee, art thou one that ca<g ref="char:EOLhyphen"/>reſt not whither thou goeſt, or makeſt no matter whether it bee to heaven or hell? Is either of them to thee indiffe<g ref="char:EOLhyphen"/>rent? And art thou reſolved to perſiſt in this indifferency? If it bee ſo, Sin<g ref="char:EOLhyphen"/>ner, I adviſe thee throw down the book, and as thou loveſt thy ſoul, read not a letter more; For I ſo love and pitty thee, as to thoſe ſorrows, that with<g ref="char:EOLhyphen"/>in a few days, nay a few hours thou muſt certainly endure, that I am loath that this ſheetſhould help to wind thee up for Hell, or any wayes conduce to increaſe thy pains, or augment thy torments: For know Sinner, This is the nature of that Goſpel of Chriſt which wee preach or write, that it either ſoftens or har<g ref="char:EOLhyphen"/>dens; It is a ſavour of life to life, or of death to death, to him that reads or hears it: It will either prepare thee for
+<pb n="3" facs="tcp:40133:5"/>Heaven, or ripen thee for Hell? for of that very Jeſus by whom onely thou canſt hope for ſalvation, it was propheſi<g ref="char:EOLhyphen"/>ed, <hi>Luke</hi> 20.34. <hi>Behold this child is ſet for the fall and riſing again of many in Iſrael.</hi>
+               </p>
+               <p>Reader, perſwade thy ſelf of this, That Jeſus Chriſt, and his written or preached Goſpel, if they prove not means to the raiſing thee from that ſtate of ſin and death, wherein by na<g ref="char:EOLhyphen"/>ture thou lieſt, they will prove the in<g ref="char:EOLhyphen"/>ſtruments of that fatal fall, that thou ſhalt never recover to eternity: and of this very nature are theſe lines thou art now peruſing (being I am confident according to the minde of God) I ſay therefore again, if thou art one that haſt lived an unrighteous, ungodly life, and reſolveſt not to change, I beſeech thee caſt by the book, and do not read it, for why ſhould it do any thing to promote thy ruine?</p>
+               <p>But if thou are a man or woman that canſt not dare to think of being dam<g ref="char:EOLhyphen"/>ned, but trembleſt at the very name or thought of it; if thou doſt heartily de<g ref="char:EOLhyphen"/>ſire, when thou leaveſt this poor, empty, miſerable world, to exchange it for that
+<pb n="4" facs="tcp:40133:6"/>full, rich, and glorious Kingdom of God above, then come away, and I will lead thee into the path of life, and tell thee what a man or woman thou muſt bee, and what a life thou mayeſt and muſt live, if ever thou hopeſt to live in that deſired and incomparably bleſſed inhe<g ref="char:EOLhyphen"/>ritance of the Saints.</p>
+               <p>Hoping now I have got a ſerious at<g ref="char:EOLhyphen"/>tentive ſoul to ſpeak to, for ſuch Reader, I preſume thouart, let mee firſt make bold to preſs thee to a revew of the text.</p>
+               <p>
+                  <hi>I ſay unto you, Except your Righteouſ<g ref="char:EOLhyphen"/>neſs exceed the righteouſneſs of the Scribes and Phariſees, yee can in no caſe enter in<g ref="char:EOLhyphen"/>to the Kingdome of Heaven.</hi>
+               </p>
+               <p>This verſe is a part of that Bible, that thou and I, and all the Chriſtian world do take to bee the word of God, which is as free from any lye or falſhood as the Sun-beams are from darkneſs; I ſhall not therefore injure thee ſo much (as if I did miſtruſt thee) to ask whether thou beleeveſt this portion of Scripture to bee true or falſe, but rather doſt thou beleeve, that it is ſo written there as here it is tranſcribed, if thou doubteſt, take thy Bible, and turn to the Chapter
+<pb n="5" facs="tcp:40133:6"/>and the Verſe: if thou wilt take it for granted, on my word, I profeſs, I have not, I would not deceive thee for a world.</p>
+               <p>
+                  <hi>The firſt part of the Text opened.</hi>
+               </p>
+               <p>
+                  <hi>(I ſay unto you) To you,</hi> Who are thoſe? Why thoſe that were preſent at that time, in which Chriſt was preach<g ref="char:EOLhyphen"/>ing this Sermon; they were his Diſ<g ref="char:EOLhyphen"/>ciples, his followers, ſuch as owned him for their Saviour, and called him Lord and Chriſt; in a word, they were ſuch as thou profeſſeſt thy ſelf to bee that art my Reader.</p>
+               <p n="2">2 <hi>I ſay unto you,</hi> who is this <hi>(I)?</hi> It was he<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that preached the Sermon, Jeſus Chriſt, it was Chriſt and not <hi>Matthew</hi> that did record it; it was Chriſt, and not I, that am about to plead withthee at this time for thy life. And now thou knoweſt the Author, I preſume the Text will have ſome au<g ref="char:EOLhyphen"/>thority upon thy heart. I hope thou wilt not ſay of Jeſus Chriſt, as the pro<g ref="char:EOLhyphen"/>phane worldlings ſay of us, his Mini<g ref="char:EOLhyphen"/>ſters, that wee are a company of pra<g ref="char:EOLhyphen"/>ting ſawcy fellows, and they hope, that all is not true that wee ſay, and
+<pb n="6" facs="tcp:40133:7"/>they are confident that God is more merciful than wee Preachers would make them beleeve. But think Rea<g ref="char:EOLhyphen"/>der, it is not I, nor any Miniſter on earth, that is the Preacher in my Text, it is Jeſus Chriſt the Maſter of us all, and canſt thou hope it is not true that Chriſt here tells thee? were not this all one, as to hope Jeſus Chriſt is a lyar, and is not this to make thy ſelf a blaſ<g ref="char:EOLhyphen"/>phemer? or dareſt thou bee ſo impu<g ref="char:EOLhyphen"/>dent to ſay, or think, that God is more merciful than Chriſt hath made him? what canſt thou think thy gracious Sa<g ref="char:EOLhyphen"/>viour would deceive thee, or that the Son of God would make falſe reports of God his Father, he tells thee the contra<g ref="char:EOLhyphen"/>ry, if thou haſt a minde to beleeve him, <hi>Joh.</hi> 12.49. <hi>I have not ſpokex of my ſelf, but the Father which ſent mee, hee gave mee Commandement what I ſhould ſay, and what I ſhould ſpeak.</hi> And wilt thou dare yet to unſay all his ſayings, though hee tells thee, hee ſayes nothing, but what God his Father commanded him? If hee tells thee plainly, <hi>Except thy righte<g ref="char:EOLhyphen"/>ouſneſs exceed the righteouſneſs of the Scribes and Phariſees, thou ſhalt in no caſe
+<pb n="7" facs="tcp:40133:7"/>enter into the Kingdome of heaven,</hi> Wilt thou boldly contradict all, and ſay, that notwithſtanding what ever Jeſus Chriſt hath ſaid, I yet hope to bee ſaved? yea though thou haſt no righteouſneſs at all, or ſuch as falls ſhort of what the Pha<g ref="char:EOLhyphen"/>riſees had; wilt thou give the lye both to God the Father, and the Son?</p>
+               <p>No ſinner, no, I know thou haſt not ſuch hard thoughts of the Saviour of the world, to think hee is a lyar. Thou calleſt him Jeſus Chriſt, and confeſſeſt him to bee the Son of God, and that it is impoſſible hee ſhould lye; yea I know thou wilt confeſs hee here ſpeaks true, and what hee ſpeaks, hee ſpeaks to thee, <hi>That except thy righteouſneſs exceeds that of the Phariſees, thou canſt by no means bee ſaved.</hi> Doeſt thou be<g ref="char:EOLhyphen"/>leeve it? Anſwer mee: Doeſt thou verily beleeve, That except thou <hi>A. B.</hi> by name, proveſt a more righteous man or woman than ever any Scribe or Phariſee was, thou canſt in no caſe en<g ref="char:EOLhyphen"/>ter into heaven? Come Come, I know thou beleeveſt it; as thou loveſt heaven, then, and thine own ſoul, I intreat thee pronounce theſe words after mee, but
+<pb n="8" facs="tcp:40133:8"/>ſpeak them ſeriouſly to thine own con<g ref="char:EOLhyphen"/>ſcience. <hi>I, A, B, Who am reading this book, do in the preſence of God, that ſearcheth my heart, and will judge mee at the laſt day, do unfeignedly beleeve, that except I am by the power of the Spirit, through the preaching of the Word, made a more righteous man or woman than ever any Scribe or Phariſee, yea and this be<g ref="char:EOLhyphen"/>fore I dye, I never hope by any means to enter into the Kingdome of heaven, but muſt aſſuredly, as now I am reading, with<g ref="char:EOLhyphen"/>in a few dayes bee in everlaſting torments, where I ſhall weep and wail, and gnaſh my teeth without all remedy.</hi>
+               </p>
+               <p>Haſt thou confeſſed ſo much? yea, and unfeignedly? yea, as in the preſence of God the ſearcher of thy heart? Yea.</p>
+               <p>Well ſaid: Now let mee tell thee, thou haſt taken one ſtep towards hea<g ref="char:EOLhyphen"/>ven, thou art half way there already. Ah ſinner, bee not ſo much thine own enemy, as to withdraw thy foot, and recall thy words! why ſhouldeſt thou repent that ſtep that is taken towards a Kingdome that is ſo bleſſed, or draw in that breath that hath filled thyſails,
+<pb n="9" facs="tcp:40133:8"/>and will make thy voyage to heaven both quick and eaſie, if it continue? For know Reader, that when thy ſoul is once throughly convinced of that righteouſneſs that is abſolutely ne<g ref="char:EOLhyphen"/>ceſſary to ſalvation, half the work of thy converſion is done, the new crea<g ref="char:EOLhyphen"/>ture is half formed in thee, and thy ſoul half ſaved: but when that righteouſneſs is attained, that is, when it is brought down into thy converſation, and thou liveſt righteouſly, then is converſion finiſhed, the new creature perfected, thy ſalvation ſecured, and thou art made a bleſſed man or woman.</p>
+               <p>But thou wilt ſay, <hi>What am I the nearer for all this, if I neither know how righteous theſe Phariſees were, nor what a righteouſneſs it is, wherein I muſt ex<g ref="char:EOLhyphen"/>ceed them; pray will you tell mee how righteous they were, and how much more righteous I muſt bee than they.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I will tell thee, but if I do, I muſt have another promiſe from thee, and I profeſs, as in the preſence of the living God, if I thought that thou wouldeſt not grant it to mee, I would not tell thee what thoſe things mean,
+<pb n="10" facs="tcp:40133:9"/>but rather out of pity to thee, ſuffer thee to lie and dye in thy ignorance; tell me, wilt thou promiſe God and mee, that when I have told thee what the righ<g ref="char:EOLhyphen"/>teouſneſs is that thou muſt ſeek, wilt thou by the help of God endeavour with all thy ſoul and ſtrength to live that righteous life this Doctrine will call for.</p>
+               <p>But ſtay (ſayeſt thou) <hi>There is no haſte, tell mee what it is firſt.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> What doeſt thou ſcruple? Art thou afraid I will deceive thee, and make it harder than it is. Reader, to put thee out of doubt from that, I pro<g ref="char:EOLhyphen"/>teſt ſolemnly, as I ſhall anſwer it before the Judge of quick and dead, before whom I am confident I muſt give an account of what I ſay or write, I will to the beſt of my underſtanding, make it to be a righteouſneſs, neither more nor leſs than what Jeſus Chriſt hath made it, nor will I ſhew thee any thing but what I will give thee ſufficient Scripture<g ref="char:EOLhyphen"/>proof for. What ſayeſt thou now, wilt thou promiſe?</p>
+               <p>What doſt thou ſtick at man? Re<g ref="char:EOLhyphen"/>member what thou haſt confeſſed al<g ref="char:EOLhyphen"/>ready:
+<pb n="11" facs="tcp:40133:9"/>Didſt thou not confeſs juſt now, that thou didſt verily beleeve, that thou canſt not poſſibly bee ſaved, ex<g ref="char:EOLhyphen"/>cept thou ſhalt become more righteous than any Phariſee, and doeſt thou now doubt whether it is beſt for thee to en<g ref="char:EOLhyphen"/>deavour to exceed them? What, art thou reſolved to ſit down ſhort of hea<g ref="char:EOLhyphen"/>ven? Ah ſinner, this is not ignorantly, but wilfully to deſtroy thy ſelf. Tell mee then, wilt thou reſolve to live a more righteous life, or wilt thou not? thou dying man or woman, either re<g ref="char:EOLhyphen"/>ſolve, or read no more. I profeſs I did not write theſe lines to dally with thy ſoul, if I had thought that all my Rea<g ref="char:EOLhyphen"/>ders would have proved ſo obſtinate, I would not have loſt that little time I ſpent in writing what thou now art vewing, nor created thee the trouble of ſo much reading. Let God bear wit<g ref="char:EOLhyphen"/>neſs betwixt thy ſoul and mine, whether I am not more deſirous to have thee ſaved, than thou art to ſave thy ſelf.</p>
+               <p>
+                  <hi>The Sinners Reſolve.</hi>
+               </p>
+               <p>Why then, I do reſolve, <hi>as God ſhall help mee, I will endeavour for the fu<g ref="char:EOLhyphen"/>ture,
+<pb n="12" facs="tcp:40133:10"/>with all my ſoul and ſtrength, to ſeek that righteouſneſs, what ever it bee, you ſhall diſcover from the Word of God, to bee his Will, and ſo my duty.</hi> Nay I further do reſolve, <hi>That neither fleſh nor blood, nor any ſin, nor luſt, or worldly intereſt whatever, ſhall hinder mee from ſeeking a portion in the King<g ref="char:EOLhyphen"/>dome of my Saviour.</hi> Bear witneſs, O God, I am in as good earneſt as ever I was in all my life.</p>
+               <p>I, ſayeſt thou ſo, Let mee then tell thee for thy comfort, thou art not far from the Kingdome of God.</p>
+               <p>But to keep thee faſt to thy reſolu<g ref="char:EOLhyphen"/>tion, that thou mayeſt neither give thy God nor mee the ſlip, I do here adjure thee by thy God and Saviour, by thy immortal and precious ſoul, by Heaven, the Crown, and all the weights of glory that are there, yea by every thing that is, or ſhould bee dear and precious to thee, not to dare to draw back, and eat thy words again. And to tye thee yet up faſter to thy reſolved vow, read <hi>Heb.</hi> 10.38. <hi>But the juſt ſhall live by faith, and if any man draw back, my ſoul ſhall have no pleaſure in him.</hi> Oh that
+<pb n="13" facs="tcp:40133:10"/>now it might bee ſpoken of thee what follows in the next verſe, 39. <hi>But wee are not of them who draw back unto perdition, but of them that beleeve to the ſaving of the ſoul.</hi> Mark finner, if thou drawſt back from ſo juſt, righteous, and holy reſolu<g ref="char:EOLhyphen"/>tion thou haſt made, thou wilt fall into perdition if thou holdeſt on, thou art paſſing forward to the ſalvation of thy ſoul, if hell doth not affright thee, let heaven perſwade thee to keep faſt to what thou haſt juſt now promiſed.</p>
+               <p>
+                  <hi>The ſecond part of the Text lyes in the diſcovery of two particulars.</hi>
+               </p>
+               <p n="1">1 Wherein did the righteouſneſs of the Phariſees conſiſt, which thou muſt reſolve to exceed.</p>
+               <p n="2">2 What is that righteouſneſs of life, that will ſet thee above the Phariſees, and put thee into a ſaving condition.</p>
+               <p>Of the firſt, What the Phariſees righteouſneſs was.</p>
+               <p n="1">1 The Phariſees was one of the ſtricteſt ſect, or the moſt preciſe ſociety of men among the <hi>Jews,</hi> they were moſt nice obſervers of all the outward points of worſhip, according to the
+<pb n="14" facs="tcp:40133:11"/>Law of <hi>Moſes,</hi> and therefore had the eſteem of their Country-men for the moſt Religious people amongſt them; I know thou wilt beleeve the Apoſtle <hi>Paul</hi> if hee tells thee ſo much, for hee was one of them himſelf before hee left them by being converted to Jeſus Chriſt. Take his own words. <hi>Act.</hi> 26.4, 5. <hi>My manner of life from my youth, which was at firſt among mine own Na<g ref="char:EOLhyphen"/>tion, at Jeruſalem, know all the Jews, which knew mee from the beginning</hi> (if they would teſtifie) <hi>that after the moſt ſtraighteſt ſect of our Religion, I lived a Phariſee.</hi> Mark that well, the Phariſees (ſayes <hi>Paul</hi>) were Religious, yea ſtraightly Religious, yea moſt ſtraightly Religious, that is, as to the outward parts of the Jewiſh Religion, which conſiſted in being natural-born <hi>Jews,</hi> children of beleeving <hi>Abraham,</hi> ad<g ref="char:EOLhyphen"/>mitted into the viſible Church by Cir<g ref="char:EOLhyphen"/>cumciſion the eighth day, in being con<g ref="char:EOLhyphen"/>ſtant Preachers or Hearers in their Sy<g ref="char:EOLhyphen"/>nagogues. But all this was not enough to ſpeak them righteous enough for the Kingdome of heaven, for remember, <hi>Except thy righteouſneſs exceed theirs,
+<pb n="15" facs="tcp:40133:11"/>thou canſt in no caſe enter.</hi> Chriſt hath ſaid it, and thou muſt beleeve it.</p>
+               <p n="2">2 The Phariſees were right in their judgements in many or moſt of the practical truths in Religion, they held that the onely true God of <hi>Iſrael</hi> was to bee worſhipped: That it was a moſt hainous ſin to theeve, to commit mur<g ref="char:EOLhyphen"/>der or adultery, or to forſwear a mans ſelf, to lye, or bear falſe witneſs againſt a neighbour, or to bee drunk, or to bee a glutton. This muſt bee all true of them that they held theſe things as ſins, yea and that they did forbear thoſe groſſer ſins; I prove it thus, 1 Becauſe Jeſus Chriſt permitted his own follow<g ref="char:EOLhyphen"/>ers to hear them preach, yea and bid them do what they taught, <hi>Matth.</hi> 23.1, 2. <hi>Then spake Jeſus to the multitude, and to his Diſciples, ſaying, The Scribes and Phariſees ſit in Moſes ſeat</hi> (the meaning is, that they were Preachers of the Commands of God delivered by <hi>Moſes</hi>) <hi>all therefore whatſoever they bid you obſerve, that obſerve and do, but do not after their works.</hi> But ſecondly, I prove that they abſtained from groſſer ſins, at leaſt to the outward act, 1 They
+<pb n="16" facs="tcp:40133:12"/>abſtained from drunkenneſs, and glut<g ref="char:EOLhyphen"/>tony, I gather from that blaſphemous reproach they caſt upon our bleſſed Saviour, in calling him <hi>a Winebibber and a Glutton,</hi> which ſpeaks that they accounted them moſt diſgraceful ſins. 2 If they had not abominated the act of murder, adultery, perjury, with drunkenneſs, and the like, and ſo re<g ref="char:EOLhyphen"/>frained from them in their lives, it were impoſſible they could ever have got that repute amongſt the <hi>Jewes</hi> of being the moſt ſtrict religious ſort of people in all their Country; who would ever have thought a ſociety of Drunkards, or Gluttons, or Whoremongers, or perjured perſons a ſtrict religious ſect? as the Apoſtle <hi>Paul</hi> confeſſeth they were reputed. From this that hath been ſaid, thou mayeſt eaſily ſee, that thou mayeſt bee neither Rogue nor Whore, nor Theef, nor Drunkard, nor Lyar, and yet bee out of a ſtate of ſal<g ref="char:EOLhyphen"/>vation, as theſe Scribes and Phariſees were, though guilty of none of theſe ſins.</p>
+               <p n="3">3 Theſe Phariſees were more righ<g ref="char:EOLhyphen"/>teous yet, for they were ſtrict obſervers
+<pb n="17" facs="tcp:40133:12"/>of the Sabbath day, ſo far as to abſtain from all bodily labour, and to attend on the worſhip of God, in reading, praying, preaching, or expounding the Word of God, this was their Sabbath dayes imployment in their Synagogues or Churches, and Chriſt permitted (as I ſhewed before) his own Diſciples to hear them, and to obſerve their Do<g ref="char:EOLhyphen"/>ctrine, and do it; but as for doing any ſervile work on this day, they reckoned it a greevous ſin, yea if it were but dreſſing any proviſion to eat; and therefore you have them quartelling with the Diſciples of Chriſt for pulling ears of Corn on this day, and rubbing them in their hands to ſatisfie their hunger, <hi>Luke</hi> 6.1. <hi>And i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> came to paſs on the Sabbath, after the firſt, that Jeſus went through the Corn-fields, and his Diſciples plucked the ears of Corn, and did eat. And certain of the Phariſees ſaid unto them, Why do yee that which is not lawful to do on the Sabbath day?</hi> Mark Reader, See how ſtrictly righ<g ref="char:EOLhyphen"/>teous they were? Sabbaths muſt bee kept, ſtrictly kept, nothing muſt take up the day with them but reading,
+<pb n="18" facs="tcp:40133:13"/>preaching, praying, expounding, no one muſt dreſs meat on that day, though to ſatisfie his hunger, thou wilt ſay perhaps, Is it poſſible for men to bee more righteous? Nay ſtay there, for I will ſhew thee preſently, wherein thou muſt exceed them in all this, or in no caſe ſhalt thou enter into Heaven.</p>
+               <p n="4">4 Yet farther, they were a ſort of men, that for the encouragement of Re<g ref="char:EOLhyphen"/>ligion, and upholding the external form o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> worſhip, in paying Tythes (com<g ref="char:EOLhyphen"/>manded by God in the Law of <hi>Moſes</hi>) were preciſely juſt or righteous, and Jeſus Chriſt confeſſeth as much unto them, <hi>Matth.</hi> 23.23. <hi>Wo unto you Scribes, Phariſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es, Hypocrites, for yee pay tithe of Mint, and Aniſe, and Cum<g ref="char:EOLhyphen"/>min.</hi> Theſe were the leaſt of herbs that were titheable, and it was diſputable by many of their Lawyers whether they were titheable or not, yet the Phariſees for their part, leſt they might ſeem to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ob God and his Church in the leaſt, reſolved to pay them, and Chriſt approves of them in that particular, b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> telling them, <hi>Theſe things yee ought to have done;</hi> but hee adds withall, by
+<pb n="19" facs="tcp:40133:13"/>way of reproof, <hi>Yee have omitted the weightier matters of the Law, Judge<g ref="char:EOLhyphen"/>ment, Mercy, and Faith;</hi> and here their righteouſneſs fell ſhort. So Reader think, thou mayeſt bee an incourager of Religion in the place where thou art, mayeſt give freely and liberally to the maintaining of a godly Miniſter where thou liveſt, which the Lord Chriſt approves of, and commends, yet except thou doeſt ſomewhat more, this will not do, thou mayeſt ſtill re<g ref="char:EOLhyphen"/>main in a ſtate of perdition.</p>
+               <p n="5">5 They were charitable to the poor; This likewiſe thou haſt acknowledged from the mouth of Chriſt, <hi>Matth.</hi> 6.2. <hi>When thou doeſt thine alms, do not ſound a trumpet before thee, as the Hypocrites do</hi> (meaning the Phariſees) <hi>in the Syna<g ref="char:EOLhyphen"/>gogues, and in the ſtreets, that they may have praiſe of men, verily, I ſay unto you they have their reward;</hi> that is, the value of many a penny, or ſhilling they threw into the poors box at Church, and ma<g ref="char:EOLhyphen"/>ny peece of bread at their doors, ma<g ref="char:EOLhyphen"/>ny a penny, or teaſter they diſtributed by the high wayes and ſtreets, and many a beggar cryed out after them, God
+<pb n="20" facs="tcp:40133:14"/>bleſs you Maſter, and yet they were all this while but Phariſees, and curſt of God, for the text is plain, that they ſhall never bee ſaved, it ſayes, <hi>They have their reward already.</hi> Oh there<g ref="char:EOLhyphen"/>fore Reader, dare not to ſit down here, unleſs thou intendeſt to bear them company to the gates of hell, where thou mayeſt eaſily enter with them, but it is impoſſible ever to get out.</p>
+               <p n="6">6 They were more righteous yet, for they were a praying people, and Chriſt confeſſeth as much, <hi>Matth.</hi> 6.5. <hi>And when thou prayeſt, thou ſhalt not bee as the Hypocrites are</hi> (meaning ſtill the Phariſees) <hi>for they love to pray ſtanding in the Synagogues, and in the corners of the ſtreets, that they may bee ſeen of men, verily I ſay unto you they have their re<g ref="char:EOLhyphen"/>ward.</hi>
+               </p>
+               <p>See here again, the Phariſees pray, love to pray, and yet Chriſt is pe<g ref="char:EOLhyphen"/>remptory, that they ſhall have no re<g ref="char:EOLhyphen"/>ward but that on earth, which ſpeaks him reſolved to deny them heaven. Reader, ſtill conſider, thou mayeſt bee one that prayeſt in thy Family to ſtop
+<pb n="21" facs="tcp:40133:14"/>the mouthes of thy friends and ſer<g ref="char:EOLhyphen"/>vants, thy godly neighbours, and Mi<g ref="char:EOLhyphen"/>niſter, that none of them may think or ſay, thou art an ungodly man or woman; thou mayeſt come to Church, and clap thy hat or hand before thy face to bee ſeen of men to pray, yet thou mayeſt bee no better than an hy<g ref="char:EOLhyphen"/>pocritical Phariſee, out of a ſtate of ſalvation.</p>
+               <p n="7">7 Laſtly, The Phariſees beleeved the Reſurrection of the dead, the bleſ<g ref="char:EOLhyphen"/>ſed or miſerable ſtate of ſouls after this life (wherein they exceeded the Sad<g ref="char:EOLhyphen"/>duces, who beleeved no Reſurrection) yea and hoped, or were confident if it fared well with any at the Reſurrection, it would with them. Concerning their beleeef, in the great Article of the Chri<g ref="char:EOLhyphen"/>ſtian faith, I mean the reſurrection, thou needeſt no other proof of it, than their taking the Apoſtle <hi>Pauls</hi> part againſt the Sadduces (<hi>Acts</hi> 23.6, 7, 8.) ſayes <hi>Paul, I am a Phariſee, the ſon of a Phariſee, of the hope and reſurrection of the dead I am called in Queſtion.</hi>
+               </p>
+               <p>Object. <hi>But was</hi> Paul <hi>a Phariſee? How could</hi> Paul <hi>then bee ſaved, if
+<pb n="22" facs="tcp:40133:15"/>no Phariſees are ſaved?</hi>
+               </p>
+               <p>
+                  <hi>Anſ. Paul</hi> calls himſelf a Phariſee, be<g ref="char:EOLhyphen"/>cauſe he was one, &amp; his father was ſuch an one, till hee was converted to Chriſt. But ſayes hee, <hi>I am ſtill ſuch an one. Anſw.</hi> True, hee was ſo, but not ab<g ref="char:EOLhyphen"/>ſolutely in all parts, for hee preached Chriſt, whom the Phariſees crucified, but in this ſingle point hee kept ſtill a Phariſee, in holding the Refurrection of the dead, which the Sadduces de<g ref="char:EOLhyphen"/>nied, and therefore the Phariſees ſtrike in with <hi>Paul</hi> againſt them, ſaying, verſ. 9. <hi>Wee finde no evil in this man, but if a Spirit or Angel hath ſpoken to him, let us not fight againſt God.</hi> Who would but think that ſuch men as theſe were good? 1 How tender do they ſeem to bee in oppoſing God in any revelation of his will and minde? 2 They take an Apoſtles part for teaching the true doctrine of the Reſurrection. 3 They expreſs much zeal in oppoſing the Sad<g ref="char:EOLhyphen"/>duces for their Hereſie. 4 They make a clear profeſſion of their faith in the point of Angels, Spirits, and the Re<g ref="char:EOLhyphen"/>ſurrection, and conſequently of the immortality of their ſouls, and their
+<pb n="23" facs="tcp:40133:15"/>hope of a bleſſedneſs after this life; yet ſtill remember they were Phariſees, and that Chriſt hath ſaid it, <hi>Except your righteouſneſs exceed the righteouſneſs of the Scribes and Phariſees, yee can in no caſe enter into the Kingdome of God.</hi>
+               </p>
+               <p>Oh Reader, take warning, and do not dare to venture thy eternal life upon ſuch a ſhallow, ſandy righteouſneſs as the Phariſees did.</p>
+               <p>Thus have I finiſhed the firſt parti<g ref="char:EOLhyphen"/>cular, in ſhewing thee what the righ<g ref="char:EOLhyphen"/>teouſneſs of the Phariſees was. Now Reader, pull up thy ſpirits, and gird up thy loins like a man, I will ſhew thee now the mark that thou muſt ſhoot at, the Garland thou muſt run for, and the Crown thou muſt fight for, the righ<g ref="char:EOLhyphen"/>teouſneſs that will bear thee up above the clouds, and ſet thee ſafe in the King<g ref="char:EOLhyphen"/>dome of Heaven, among the ſpirits of juſt men made perfect, if thou reſolveſt to ſeek after it, which through the grace of God thou mayeſt aſſuredly attain to.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="24" facs="tcp:40133:16"/>
+               <head>Second Part, ſhewing, what is the righte<g ref="char:EOLhyphen"/>ouſneſs of the Saints, that exceeds that of the Phariſees.</head>
+               <p n="1">1 THe Phariſees, as righteous as they were, did not acknowledge Jeſus Chriſt, nor entertain him as the Son of God, and the Saviour of the world: Now if thou wilt acknowledge him as all this, and anſwerably reſolve to be<g ref="char:EOLhyphen"/>leeve in him, relye upon him for par<g ref="char:EOLhyphen"/>don and ſtrength againſt ſin; if thou wilt love him above thy father, mo<g ref="char:EOLhyphen"/>ther, ſon, daughter, houſe, land, living, above thy ſins and luſts, and wilt readily part with them all at his com<g ref="char:EOLhyphen"/>mand, thou haſt done ſomething the Phariſees never did, thy righteouſneſs ſhall bee more than theirs, and thou ſhalt enter into heaven, when they ſhall bee ſhut down into hell.</p>
+               <p n="2">2 The Phariſees beleeved it a ſin to commit Murder, but they did not count it murder to bee angry with their brethren or neighbours without a cauſe, and to call them Fools or <hi>Racha.</hi> Now Reader, if thou wilt ſtrive and
+<pb n="25" facs="tcp:40133:16"/>ſtruggle all revenge and unlawful paſ<g ref="char:EOLhyphen"/>ſion out of thy heart, thou art more righteous than ever the Phariſees were. Reader, ſee thou to it, it muſt bee done, without thou wilt bee content to bee no more righteous than the Phariſees were; do not diſpute it, Chriſt will have it ſo, <hi>Matth.</hi> 5.22. <hi>I ſay unto you, that whoſoever is angry with his brother, without a cauſe, ſhall bee in danger of Judgement, and whoſoever ſhall ſay. Thou Fool, ſhall bee in danger of Hell fire.</hi> If thou wilt have it more clear, conſider 1 <hi>Joh.</hi> 3.15. <hi>Whoſoever hateth his brother is a murderer, and yee know that no murderer hath eternal life abiding in him.</hi> As thou likeſt the caſt<g ref="char:EOLhyphen"/>ing into hell fire, or being accounted a murderer, in the judgement of God, of being void of eternal life, give way hereafter to thy proud, peeviſh, re<g ref="char:EOLhyphen"/>vengeful paſſionate nature.</p>
+               <p n="3">3 The righteouſneſs of the Pha<g ref="char:EOLhyphen"/>riſees condemned the act of Adultery to bee a ſin, but they did not think that a laſcivious look, and a luſtful defire of the heart after a woman was a ſin. Now Reader, if thou wilt reſolve to
+<pb n="26" facs="tcp:40133:17"/>conquer the deſires of thy luſtful eyes and heart, thou haſt attained a righteouſneſs the Phariſees never had; ſtick not at it ſinner, this Command, as the whole yoak of Chriſt is eaſie, and may bee born, Chriſt will have it, and thou muſt do it, if thou reſolveſt to ex<g ref="char:EOLhyphen"/>ceed the Phariſees, <hi>Mat.</hi> 5.28. <hi>I ſay unto you</hi> (ſayes Chriſt) <hi>whoſoever looketh on a woman to luſt after her, hath committed Adultery already with her in his heart.</hi> Now think, if thou wilt ſtill give way to thy luſtful eyes, and heart, know this, that the Adulterer God will judge, and thou mayeſt bee ſuch, though thoune<g ref="char:EOLhyphen"/>ver doſt commit the act.</p>
+               <p n="4">4 The Phariſees thought it onely a ſin to forſwear themſelves; but the Com<g ref="char:EOLhyphen"/>mand of Chriſt is, <hi>Swear not at all, Mat.</hi> 5.34. except it bee in caſes that are true, certain, and certainly known, lawful, poſſible, and weighty, wherein the glory of God, and the welfare of thy neighbour, is conſiderably concerned, but ordinarily before a Magiſtrate, and then an oath is lawful. This I muſt prove, becauſe it is ſo ſtifly denied by ſome in this age, inconſiderately enough
+<pb n="27" facs="tcp:40133:17"/>The onely Objection which they have is founded on that of our Lord Chriſts, <hi>Matth.</hi> 5.34. <hi>But I ſay unto you ſwear not at all;</hi> which ſaying I confeſs, if bro<g ref="char:EOLhyphen"/>ken off from the ſcope of Chriſt in his whole diſcourſe, ſeems to intimate ſo much, that it was not onely the cor<g ref="char:EOLhyphen"/>rupt prophane uſe of Oaths that hee condemneth, but that hee intended an utter abolition of the uſe of all, how ever circumſtantiated.</p>
+               <p>
+                  <hi>Anſ.</hi> 1 I grant that from this Text, not only perjury, but that ſwearing is for<g ref="char:EOLhyphen"/>bidden.</p>
+               <p n="2">2 I farther grant that all manner of ſwearing by any creature is ex<g ref="char:EOLhyphen"/>preſly forbidden, as by Heaven, Earth, <hi>Jeruſalem,</hi> by thy head, and that in no caſe what ever is it lawful to uſe them, and the Lord Chriſt gives you the reaſon why.</p>
+               <p>But 3 I deny, that from this Text may bee proved, that it is un<g ref="char:EOLhyphen"/>lawful to ſwear by God himſelf before a Magiſtrate, or in the caſes above ex<g ref="char:EOLhyphen"/>preſſed; My reaſons are theſe.</p>
+               <p n="1">1 Becauſe the Lord Chriſt doth not mention that oath which was onely
+<pb n="28" facs="tcp:40133:18"/>lawful amongſt the Jews, but takes up in chiding them for perjury in general, and for oaths by creatures in particu<g ref="char:EOLhyphen"/>lar, which <hi>Hierom</hi> noted long ſince. <hi>Conſidero (inquit) quod hic Salvator non per Deum jurare prohibuerit ſed per Cae<g ref="char:EOLhyphen"/>lum, per terram, &amp;c.</hi>
+               </p>
+               <p n="2">2 Becauſe the God and Father of our Lord Jeſus did conſtitute the law<g ref="char:EOLhyphen"/>fulneſs of ſwearing by his Name, <hi>Deut.</hi> 6.6.13. and 10.20. <hi>Thou ſhalt ſwear by the Name of God. Exod.</hi> 22.1. <hi>The oath of Jehovah ſhall bee between you.</hi> Now is it probable that the Son ſhould make that unlawful, which the Father made lawful? Is not this to eſtabliſh the old Manichaean hereſie? That taught that the God of the Old Teſtament, and the God of the New, were as contrary as light and darkneſs, and their work was to contradict each other? If any reply, that it is a granted caſe, that Chriſt a<g ref="char:EOLhyphen"/>boliſhed the Cer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>monial Law, that un<g ref="char:EOLhyphen"/>der the Moſaical diſpenſation was in force at the appointment of his Father, and why may hee not then aboliſh this?</p>
+               <p>I anſwer, But then it muſt bee well proved that an oath was a ceremony,
+<pb n="29" facs="tcp:40133:18"/>and then I pray tell mee, what it was a type of? But ſecondly, I have far more ground to think it one of the Judicial Laws, as being highly ſubſervient to put the other Laws in execution, which in many caſes might have been ſuſ<g ref="char:EOLhyphen"/>pended, or not with ſo clear juſtice ex<g ref="char:EOLhyphen"/>ecuted, without an Oath to render the teſtimony evident.</p>
+               <p n="3">3 Becauſe hee expreſly ſayes of him<g ref="char:EOLhyphen"/>ſelf, <hi>I came not to deſt roy the Law, but to fulfil it;</hi> and can you perſwade your ſelf, that hee can ſay hee will not, and yet o it? was not there once a Law for ſwearing, have I not proved it? But can Chriſt bee ſaid to fulfil that Law by an utter aboliſhing of it? he being the Subſtance, came in the room of all the Ceremonies, which were ſhadows; but prove that an Oath is a ſhadow, and I have done.</p>
+               <p n="4">4 I argue <hi>à genere,</hi> from the nature of an Oath it ſelf, (which if well under<g ref="char:EOLhyphen"/>ſtood) it is very unlikely that the Son of God ſhould take away the uſe of it. <hi>An Oath is an appeal to God, wherein hee is beſeeched, as the onely ſearcher of hearts, that hee would bear teſti<g ref="char:EOLhyphen"/>mony
+<pb n="30" facs="tcp:40133:19"/>to the truth, and would puniſh the ſwearer if hee know him to bear a falſe teſtimony:</hi> but that all ſuch ap<g ref="char:EOLhyphen"/>peals to God ſhould bee prohibited and condemned by Chriſt, can hardly bee affirmed without blaſphemy.</p>
+               <p n="5">5 Let mee reaſon from the end and uſe of an Oath, which will far<g ref="char:EOLhyphen"/>ther diſcover it was never the intent of Chriſt utterly to aboliſh all oathes. 1 An Oath then is that whereby men give to God the praiſe of his higheſt Wiſdome, that ſees into the ſecrets of their hearts, and ſees into every corner of them what truth or falſhood lodgeth there. 2 And it yeelds him the glory of his Omnipotency, whereby it is acknow<g ref="char:EOLhyphen"/>ledged, hee is able to puniſh the per<g ref="char:EOLhyphen"/>jured. 3 It honours his Juſtice and Mercy, becauſe thereby men acknow<g ref="char:EOLhyphen"/>ledge that hee will infallibly defend truth, and bee a revenger of falſhood. Laſtly, It is the bond of politick order, and humane ſociety, neither of which can long continue without faithfulneſs and truth, nor could there bee that diſ<g ref="char:EOLhyphen"/>patch of ſtrifes and controverſies, <hi>Exod.</hi> 22. <hi>Heb.</hi> 11.6. To condemn
+<pb n="31" facs="tcp:40133:19"/>therefore every Oath, ſeems to detract from Gods glory, and to deſtroy humane ſociety, and wee may bee ſure the Son of God would neither bee the Authour of the one, nor of the other.</p>
+               <p n="6">6 Can it bee thought without mad<g ref="char:EOLhyphen"/>neſs that Chriſt would condemn the commended examples of the Saints in Scriptures? not onely of the Patriarchs, but alſo of the Apoſtles, yea and God himſelf, their ſolemn Oaths ſo fre<g ref="char:EOLhyphen"/>quently recorded, as ſigns of their great zeal and devotion, that it were endleſs to enumerate them, ſee that of <hi>Pauls, Gal.</hi> 20. <hi>before God, I lie not.</hi> And ſo 2 <hi>Cor.</hi> 12.19.</p>
+               <p n="7">7 I might adde as farther proof, that the Prophets very often foretold, that God by his new Church under the reign of the Meſſiah, ſhould bee ho<g ref="char:EOLhyphen"/>noured by the Oaths of his people, as <hi>Iſa.</hi> 65.16. <hi>Hee that ſweareth in the earth ſhall ſwear by the God of truth.</hi> Iſa. 19.15. <hi>In that day ſhall five Cities in the land of Egypt, ſpeak the language of Canaan, and ſwear to the Lord of Hoſts.</hi> And can it yet bee imagined, that
+<pb n="32" facs="tcp:40133:20"/>when Jeſus Chriſt gave birth to all other Propheſies, hee ſhould render this a<g ref="char:EOLhyphen"/>bortive, and render that unlawful, which was foretold to bee one of the glories of his Kingdome?</p>
+               <p>But to conclude Reader, after all that hath been ſaid, this is plain, that all manner of Oaths, except in the aforeſaid caſes, are unqueſtionably ſin<g ref="char:EOLhyphen"/>ful, and muſt bee refrained, if thou intendeſt to excel the Phariſees, which is certain, that thou muſt, or forgo all thy hopes in Heaven.</p>
+               <p n="5">5 The Phariſees paid Tythe moſt juſtly for the maintaining the outward form of ſervice to God, but in their more ordinary civil matters, they were moſt unconſcionably unjuſt, and fraudulent, witneſs the poor widows houſes they devoured, and to hide the matter from the world, they made long prayers. But if thou wouldeſt bee more righte<g ref="char:EOLhyphen"/>ous than they, let thy purſe bee open for the promoting the ſervice of thy God, but ſeek not to repair thy layings out, by unjuſt oppreſsive couſening ways of trading, this is to rob Churches to build Hoſpitals, or to pick thy
+<pb n="33" facs="tcp:40133:20"/>Cuſtomers pocket to make an oblation to God, or to ſteal a ſheep to make a ſacrifice, bee not ſuch an one, leſt God ſend thee to hell for thine offering.</p>
+               <p n="6">6 The Phariſees, as thou haſt heard, were ſtrict obſervers of Sabbaths, but their covetous, proud lives ſpake them diſobedient to the God of Sabbaths; ſo that if thou conſcientiouſly wilt endea<g ref="char:EOLhyphen"/>vour to live over in the week dayes, what thou learneſt of God on the Sab<g ref="char:EOLhyphen"/>bath day, thy righteouſneſs excels theirs.</p>
+               <p n="7">7 They gave alms, but with an in<g ref="char:EOLhyphen"/>tent to bee ſeen, and praiſed of men: Give thou thine alms, but out of an un<g ref="char:EOLhyphen"/>feigned love to God, and thy needy brethren, and ſtill thy righteouſneſs is greater.</p>
+               <p n="8">8 They beleeve the immortality of the ſoul, and the reſurrection of the dead, but yet their earthly, ſenſual li<g ref="char:EOLhyphen"/>ving, ſpake as if they underſtood no higher life than this that is meerly mor<g ref="char:EOLhyphen"/>tal. But if thou wilt beleeve thy ſoul ſhall never dye, and therefore alwayes live here on earth, as if thou wert upon the borders of Eternity, expecting a
+<pb n="34" facs="tcp:40133:21"/>departure into another world, in all temperance, juſtice, mercy, faithfulneſs, there is then as much difference be<g ref="char:EOLhyphen"/>twixt thy righteouſneſs, and theirs, as betwixt the clear Sun, or the brighteſt ſtar, and a clod of clay or dirt.</p>
+               <p n="9">9 Laſtly, This rotten frame of ex<g ref="char:EOLhyphen"/>ternal righteouſneſs, they thought ſufficient to anſwer the ſevereſt Law of God, and to bring them off acquitted, and fully juſtified at the final judge<g ref="char:EOLhyphen"/>ment; they dreamed not of a Saviours blood, or any neceſſity for the bloody ſacrifice of the Son of God for the ex<g ref="char:EOLhyphen"/>piation of ſins. But if, ſinner, thou wilt reſolve for thy part to rowl thy faith, and all the garments of thy in<g ref="char:EOLhyphen"/>ward righteouſneſs in the blood of Chriſt, and never hope to finde ac<g ref="char:EOLhyphen"/>ceptance for the moſt precious life of faith, and holineſs that can bee lived by thee, but by the mediation of a Savi<g ref="char:EOLhyphen"/>our, then haſt thou hit the mark, and anſwered fully the expectations of thy Saviours call, who called thee to a righ<g ref="char:EOLhyphen"/>teouſneſs above the Phariſees; here it is, and here thou muſt reſolve to live and dye.</p>
+               <pb n="35" facs="tcp:40133:21"/>
+               <p>And now I have ſhewed thee what a man or woman thou mayeſt, and muſt bee, if ever thou hopeſt to bee ſa<g ref="char:EOLhyphen"/>ved; remember now the Vow thou madeſt to God before I ſhewed thee what that Righteouſneſſe is that thou muſt ſeek. And I now claime thy promiſe, and challenge thee on thy Vow to tell mee what thy purpoſe is to do in theſe particu<g ref="char:EOLhyphen"/>lars that I ſhall ask thee.</p>
+               <p>Art thou reſolved from thy ſoul to love the Lord Jeſus with all thy heart and ſtrength? Wilt thou reckon nei<g ref="char:EOLhyphen"/>ther of ſin, nor luſt, nor life dear to part with for him? and in a way of o<g ref="char:EOLhyphen"/>bedience wilt thou truſt to him for his free remitting all thy ſins? Wilt thou endeavour to live a more ſtrict life, and more ſpiritual than ever Phariſee did? Wilt thou not onely account of Mur<g ref="char:EOLhyphen"/>der to bee a ſin, but wilt thou abhor all unlawful anger againſt thy brother, or the calling of him Fool without a cauſe, and wilt thou think ſo doing a degree of Murder? Wilt thou con<g ref="char:EOLhyphen"/>demn Adultery, not onely in the act, but likewiſe in the eye, and heart, and
+<pb n="36" facs="tcp:40133:22"/>bee rather willing to pull out thy right eye, than wound thy conſcience and offend thy God? wilt thou keep the Sabbath, not onely in the letter, but in the ſpirit, and in truth.</p>
+               <p>In a word, wilt thou reſolve to pray unto thy God, and bring thy heart in to thy prayers? wilt thou conſcientiouſly endeavour in thy calling to maintain thy ſelf and family, and to bee able to relieve thy poor brother by thy cha<g ref="char:EOLhyphen"/>rity, and wilt thou do both out of pure love to God, and thy neighbour, and not for the love of praiſe from men? wilt thou beleeve the immortality of thy ſoul, the reſurrection of the dead, and the bleſſedneſs of thoſe that dye in the Lord? and wilt thou endeavour a fellowſhip in that Reſurrection by walking with God, and living a holy, innocent, humble, chaſte, ſober, hea<g ref="char:EOLhyphen"/>venly, beleeving life? What ſayeſt thou man? What amazed!</p>
+               <p>Sin. <hi>Ah I cannot, I dare not, I will not promiſe any ſuch thing: Here is a task indeed, enough to break any mans heart, and to make mee live miſerably all my dayes; I would your book had been burnt,
+<pb n="37" facs="tcp:40133:22"/>before it came into my hands, or within my doors: What, no hopes of entring hea<g ref="char:EOLhyphen"/>ven without ſuch a righteous life! It is better you were hanged, and the whole generation, of ſuch Preachers as you are.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> But ſinner, Ah ſinner, why ſo impatient, I am not thine enemy, I tell thee but the truth, <hi>I ſpeak the truth in Chriſt, I lie not;</hi> Chriſt hath ſaid it, and I dare ſay it again, <hi>Except thy righte<g ref="char:EOLhyphen"/>ouſneſs exceed the righteouſneſs of the Scribes and Phariſees, thou canſt in no caſe enter into the Kingdome of heaven:</hi> If this ſingle Text is not a witneſs ſuf<g ref="char:EOLhyphen"/>ficient, thou ſhalt have it confirmed by the mouths of one or two more, read <hi>Heb.</hi> 12.14. <hi>Follow peace and holineſs, without which no man ſhall ſee the Lord.</hi> So 1 <hi>Joh.</hi> 3.2, 3. <hi>Beloved, now are wee the Sons of God, and it doth not yet appear what wee ſhall bee, but hee that hath this hope purifieth himſelf as hee is pure.</hi> I could adde an hundred Scriptures more, but here are witneſſes enough to arraign and condemn thee: What ſayeſt thou now? What wilt thou now yet wiſh mee hanged, for telling nothing but what Chriſt, and <hi>Paul,</hi> and
+<pb n="38" facs="tcp:40133:23"/>
+                  <hi>John</hi> hath told thee? No, no, thou wert but in a paſſion, I do freely for<g ref="char:EOLhyphen"/>give thee; But oh that my hanging could keep thee from damning; how far better that I were hanged, and a hundred ſuch Preachers as I am, ſo wee could expiate thy ſins, and prevent the ruine of thy ſoul and body for ever. Were I tyed to a Gibbet I ſhould bee quickly out of my pain, but if thou go<g ref="char:EOLhyphen"/>eſt to hell thou wilt never bee out of thine; I ſhould be quickly dead but thou wilt never dye as to thy torment; Sinner beleeve mee, nothing but love to thy precious ſoul makes mee deal ſo plain<g ref="char:EOLhyphen"/>ly with thee.</p>
+               <p>Sin. <hi>But how can I perſwade my ſelf you love mee, when you would put ſuch a yoak of righteouſneſs upon my neck, that I, nor my Fathers could ever bear?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It makes no matter whether thou thinkeſt I love thee or not; if I do not, I am ſure thou wilt con<g ref="char:EOLhyphen"/>feſs that Jeſus did; why man! it is not I, but hee that doth thus endeavour to put this holy yoak upon thy neck, and doth intreat thee to wear it for his ſake, <hi>Matth.</hi> 11.29, 30. <hi>Take my yoak upon you, and learn of mee, for I am
+<pb n="39" facs="tcp:40133:23"/>meek and lowly in heart, and you ſhall finde reſt to your ſouls, for my yoak is eaſie, and my burden is light.</hi> And what is this yoak, but the holy, righteous na<g ref="char:EOLhyphen"/>ture, and life, which I have been all this while explaining to thee?</p>
+               <p>But ſayeſt thou, <hi>Do I in conſcience think that the Commands of Christ may be thus obeyed, &amp; ſuch a righteous life lived?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Yea in my very conſcience, I do think it, that both this life may, and is lived by thouſands, yea by all that are in a preſent ſtate of ſalvation: Nay, I verily think that all the Com<g ref="char:EOLhyphen"/>mands of Chriſt, may, and are by all ſound Chriſtians obeyed (excepting ſome particular acts that with them are not ordinary) yea and with ſuch an obedience, that <hi>quoad ſpeciem,</hi> though not <hi>quoad gradum,</hi> is perfect, that is, their love, or fear, or faith to God and Chriſt, have the true genuine nature of theſe graces, and ſuch as the Com<g ref="char:EOLhyphen"/>mand calls for yet I confeſs, none loves, or fears, or beleeves ſo much, but there might bee ſeveral cubits added to the ſtature of theſe graces: But Reader, it is not my deſire to trouble thy head
+<pb n="40" facs="tcp:40133:24"/>with ſpeculations, I have got unto thy heart, and there I will keep. If thou wilt then have thy queſtion anſwered, whe her the Commands of Chriſt may bee obeyed in thy life, look 1 <hi>Joh.</hi> 5.2, 3. <hi>By this wee know that wee love the children of God when wee love God, and keep his Commandements; for this is the love of God</hi> (or herein it conſiſteth) <hi>that wee keep his Commandements, and his Commandements are not greevous.</hi> See how the Apoſtle tells thee, they may not onely bee obeyed, but that to them that love God, they are not greevous; if thou wilt neither beleeve Chriſt, nor his Apoſtles, I deſpair of finding credit with thee; but I will not cheriſh ſo hard an opinion of thee, I know thou be<g ref="char:EOLhyphen"/>leeveſt them both: mee thinks I ſee thy heart relenting, and about to yeeld the cauſe; D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th not thy heats begin to cool, and thy anger to mee abate? Doſt thou not begin to ſee how much thou haſt been deceived in the matters of thy ſoul, and to tremble to think how ma<g ref="char:EOLhyphen"/>ny of thy neighbours have been de<g ref="char:EOLhyphen"/>ceived with thee? Art thou not rea<g ref="char:EOLhyphen"/>dy to ſay to mee as King <hi>Agrippa</hi> once
+<pb n="41" facs="tcp:40133:24"/>did to <hi>Paul, Thou haſt almoſt perſwaded mee to bee a Chriſtian?</hi> Mee thinks I ſee thee kiſs the book, bedew it with thy tears, and hear thee bleſs God that directed it to thee, or thank the friend that put it into thy hand.</p>
+               <p>Tell mee then, What is thy reſolu<g ref="char:EOLhyphen"/>tion? I cannot, muſt not let thee go, I have thy promiſe already, and God will have the performance, or will have thy life; I have already told thee wherein a greater, better, and far more noble righteouſneſs conſiſts, than ever the Phariſees underſtood, I expect thy anſwer.</p>
+               <p>Sinner. <hi>Oh Sir, Pray have mee ex<g ref="char:EOLhyphen"/>cuſed, I am convinced there is truth in what you ſay, but I have ſuch a Trade, ſuch a Family to look after, ſuch company and wayes I have been many years inga<g ref="char:EOLhyphen"/>ged in, I can have neither time to read, or pray, or faſt, to think of God, or Chriſt, or heaven, or hell, or death, judgement, or any thing elſe; my pride, my paſſion is ſo ſtrong, and I ſo uſed to it, I cannot maſter them; If I lie not, nor equivocate, if I cheat not, nor over<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reach my brother, I cannot trade, and ſo I cannot live; though
+<pb n="42" facs="tcp:40133:25"/>I have a good minde to what you ſay, and am convinced it is my duty, yet I do not think for my part, I ſhall ever attain to live, no not ſo righteouſly as the Phariſees did.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Is this thy laſt, and utmoſt reſolution? Will no reaſon, nor Scrip<g ref="char:EOLhyphen"/>ture prevail with thee? Can neither man nor God perſwade thee? then no more ſinner, but expect thy doom, theſe excuſes ſhall not, muſt not ſerve thy turn; read it in the laſt clauſe of my Text, <hi>Thou ſhalt in no caſe enter into the Kingdome of Heaven.</hi> Canſt thou read ſo ſad a ſentence and finde no tear to drop, nor groan to fetch? the poor Rogue at the Bar is more tender of his life, and affraid of the Gallows, than thou art of thy ſoul, or hell; What is thy heart a rock, or thy eyes flint? Art thou paſt all ſenſe or feeling? <hi>Thou ſhalt not enter into heaven,</hi> is that nothing? But perhaps thou doſt not underſtand what ſhutting out of heaven means, leſt thy ignorance ſhould undo thee, I will inſtruct thee.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="43" facs="tcp:40133:25"/>
+               <head>The third part of my Text, ſhowing the miſery of being ſhut out of heaven, in three particulars.</head>
+               <p n="1">1 TO bee ſhut out of heaven means all this, Thou ſhalt not ſee thy God in heaven, nor behold his glory, thou ſhalt neither love him, nor bee be<g ref="char:EOLhyphen"/>loved of him; thou ſhalt not ſee, nor live with Jeſus Chriſt, the beſt friend that ever thou hadſt; thou ſhalt never ſee, nor underſtand the bleſſedneſs of thoſe Angel-ſpirits that bee there, nor enjoy the fellowſhip of the Saints on high; thou ſhalt never taſte of the River of pleaſures that run out of the throne of the Lamb, nor behold the ſweet light that ſtreams in flouds from his counte<g ref="char:EOLhyphen"/>nance; thou ſhalt never hear him call thee bleſſed, or pronounce thee juſt, nor bid thee welcome to the joy of thy Ma<g ref="char:EOLhyphen"/>ſter.</p>
+               <p>
+                  <hi>Piſh,</hi> ſayeſt thou, <hi>And is this all? it is even as good as nothing, thou never heardeſt, or ſaweſt, or taſtedſt, or didſt e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>joy any ſuch things as theſe on earth, and yet thou ſayeſt thou livedſt happily enough
+<pb n="44" facs="tcp:40133:26"/>without them, thou ever foundeſt more pleaſure in an Alehouſe, than in a Church, and admired the melody of a wanton laſ<g ref="char:EOLhyphen"/>civious ſong above the harmony of a Pſalm; a cup of wine, and a good feast at a Tavern, hath ever been more delicious to thee than the bleſſed Sacrament of the body and blood of Chriſt; yea the ſmiles of a wanton Harlot have been more indearing than the love and kindneſs of a tender Saviour; if the loſs of heaven bee no more than the loſs of ſeeing, or enjoying God, Chriſt, Angels, Saints, in a glorious uni<g ref="char:EOLhyphen"/>on of the Spirit, fare them well all, give mee but the full ſtreams of my ſinful plea<g ref="char:EOLhyphen"/>ſures, though I ſwim in them to hell.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> But ſtay ſinner, ſure thou art not in good earneſt, think again, thou dareſt not ſay ſo once more, I have bet<g ref="char:EOLhyphen"/>ter hopes of thee than ſo, thou art ſure not ſo far gone, certainly thou haſt ſome reaſon left, the light of thy con<g ref="char:EOLhyphen"/>ſcience is not quite put out, ſurely thou art no Beaſt, nor Devil.</p>
+               <p>Sinner. <hi>Well, it is no matter what I am, I am reſolved to hazzard all for this be<g ref="char:EOLhyphen"/>loved gold, theſe pleaſant cups and diſhes of wines, meats, and ſenſual pleaſures,
+<pb n="45" facs="tcp:40133:26"/>if I ſhould not ſay ſo, I am reſolved to do ſo, for this ſinful life I will not part with, though I loſe an hundred Kingdomes of heaven, and as many Crowns as there are ſtars, and as rich a glory as God himſelf can pretend to give mee: Give mee to live on earth in ſin, and what care I for God, or heaven, and all his happineſs?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Mee thinks yet ſinner, I can<g ref="char:EOLhyphen"/>not beleeve thee, this is but a bravado, thou dareſt not ſay ſo in cool blood, no nor if thou wert on thy death-bed; I never heard a Rogue at a Gallows ſay ſo (though while hee was at liberty, was perhaps as deſperate a wretch as thy ſelf.</p>
+               <p>If yet thou thinkeſt thou dareſt both ſay, and do ſo) hear mee then once more, thou haſt not heard the worſt, at leaſt not all that ſhutting out of Hea<g ref="char:EOLhyphen"/>ven implies, it ſignifies thus much more.</p>
+               <p n="2">2 If thou art ſhut out of Heaven, thou muſt bee ſhut out of earth too, the Paradiſe above ſhall not onely bee kept againſt thee with a flaming ſword, but thou ſhalt loſe the happineſs of curſed <hi>Cain,</hi> of being a vagabond upon the earth.</p>
+               <pb n="46" facs="tcp:40133:27"/>
+               <p>Sinner, the time is coming, and then will bee, that all thy gold and ſilver, with rich apparel, with all thy houſe and lands, livings, with all thy meats and drinks, thou muſt leave behinde thee to bee devoured by the mercileſs flames that ſhall conſume the world, what wilt thou get then to delight thy liquoriſh palate, or to quench thy drun<g ref="char:EOLhyphen"/>ken thirſt, or to cover thy rotten carkaſs, or to ſatisfie thy beaſtly unſatiate luſt? I pray thee Reader think, am I telling thee a fable? or art thou a dying man or woman? Is not thy life moſt, or much of it ſpent already, how often more doſt thou think will the clock ſtrike round, before it ſtrikes the hour that thou muſt dye? art thou ſure of the morrow? doth not the bell hang in thy Pariſh-ſteeple that muſt towl thy knell? doth not thy coffin and thy grave ſtare thee in the face, and tell thee wee muſt ſhortly have thy body? and doſt not thou then know for certain, that all the fewel of thy ſenſual pleaſures, and ſo the pleaſures themſelves, muſt bee left behinde?</p>
+               <p>What ſayeſt thou now Reader, how
+<pb n="47" facs="tcp:40133:27"/>doſt thou like ſhutting out of heaven, when thou muſt not onely loſe the de<g ref="char:EOLhyphen"/>lights there, but all that are upon the earth?</p>
+               <p>What is thy minde yet changed? ſpeak man, thou haſt time yet given thee to make thy choice; wilt thou en<g ref="char:EOLhyphen"/>deavour to bee more righteous than the Phariſees, or ſit down content to bee ſhut out of heaven? Thou fooliſh ſin<g ref="char:EOLhyphen"/>ner, why doſt thou delay thy anſwer, what difficulty can there bee in the queſtion that I ask thee? heaven thou knoweſt, and righteouſneſs thou knoweſt, for I have told thee what they mean already: Ah that mans heart ſhould bee ſo ſottiſh to make it a doubtful caſe, whether it is better to chuſe heaven with righteouſneſs, or hell with wickedneſs!</p>
+               <p>Mee thinks I hear thee begin to cry out, Good Lord, what a ſtreight hath this book driven mee to: I did not think theſe fooliſh Preachers had half ſo much reaſon on their ſides, I begin now to think it is hard to hear them, or to read them without being of their minds, though I care not much for heaven, yet
+<pb n="48" facs="tcp:40133:28"/>I am loath to loſe heaven and earth to<g ref="char:EOLhyphen"/>gether. What ſhall I do? there is no<g ref="char:EOLhyphen"/>thing can keep mee out of heaven, but an unrighteous wicked life, but how ſhall I leave my ſin? I know not, I am not uſed to read and pray, and repent in tears, and I care not to begin; but I am uſed to ſwear and lie, and drink, and whore, and them I cannot leave, but if I do not I cannot enter into heaven, what ſhall I do? Oh that I might dye like a beaſt, and lye in a benummed ſtate of death for ever, free from all ſenſe or feeling of any joy, ſo I might live on earth but as I liſt: Oh my dear works of darkneſs, I do ſo love you, that I could bee willing to bee a dog, or any other beaſt at death, ſo I might but have your company while I live.</p>
+               <p>
+                  <hi>Reply.</hi> Ah Fool, Fool, Fool! What Devil hath been the Prieſt, to eſpouſe thee ſo nearly to thy filthy, ſtinking, rotten ſinful life, that neither Chriſt, nor his Miniſters can perſwade thee to a divorce? Thou ſenſeleſs ſinner, haſt thou not too juſtly provoked thy Ma<g ref="char:EOLhyphen"/>ker to repent that hee made thee a man? what, content to dye like a beaſt, and
+<pb n="49" facs="tcp:40133:28"/>loſe the glorious priviledge of an im<g ref="char:EOLhyphen"/>mortal life, for a baſe filthy ſin! how much pitty is it that ever thou wert man or woman, and not rather a dog or toad? thou art a diſgrace to the hu<g ref="char:EOLhyphen"/>mane nature; but thou wretched deſpe<g ref="char:EOLhyphen"/>rate ſinner, I tell thee thou ſhalt not have thy wiſh, becauſe thou art ſo un<g ref="char:EOLhyphen"/>willing to live like a ſon or daughter of God on earth, thou ſhalt not have ſo much happineſs to lye down in thy grave like a dog, thou ſhalt aſſuredly go to hell, and ſo to torment, therefore ſhutting out of heaven ſpeaks more ſadneſs than I have acquainted thee with.</p>
+               <p n="3">3 Laſtly, Conſider this, if thou wilt not reſolve to live more righte<g ref="char:EOLhyphen"/>ouſly than ever any Phariſee did, Aſſure thy ſelf, that Jeſus Chriſt that ſhuts thee out of heaven, ſhall ſhut thee up in Hell, that tongue that pronoun<g ref="char:EOLhyphen"/>ceth the righteous bleſſed, ſhall pro<g ref="char:EOLhyphen"/>nounce thee curſed, and hee that bids them enter into the joy of their Maſter, ſhall command thee to deſcend into torments with the Devils, there ſhalt thou receive the ſtroak of his iron rod,
+<pb n="50" facs="tcp:40133:29"/>that ſhall daſh thee in peeces, and bear the ſtroaks of his revengeful arm for thy abuſing of his tender and long-ſuf<g ref="char:EOLhyphen"/>fering mercy. There ſhalt thou feel the worrowings of an inraged conſcience, and ſuffer the tortures of devouring flame, and this for ever and ever.</p>
+               <p>Reader, If thou art obſtinate, de<g ref="char:EOLhyphen"/>ceive not thy ſelf, God will not bee mocked, and in his puniſhing thee for ſin, hee will not ſeem to bee in jeaſt; for as the Lord liveth, and as thy ſoul li<g ref="char:EOLhyphen"/>veth, there is not a tittle of what I ſay, but what is contained in thy Bible; if I ſhew it thee to bee there, thou wilt not ſure queſtion whether it bee true; Read then, and let thine own eyes bear wit<g ref="char:EOLhyphen"/>neſs, <hi>Matth.</hi> 25.41. <hi>Then ſhall hee ſay unto them on the left hand, Depart from mee yee curſed into everlaſting fire pre<g ref="char:EOLhyphen"/>pared for the Devil and his Angels,</hi> Mark. 9.47. <hi>And if thine eye offend thee,</hi> that is, thy ſin as dear as thy eye hinder thee in the way to heaven, pluck it out (that is, caſt it away, and leave that ſin) <hi>It is better for thee to enter into the Kingdome of God with one eye</hi> (yea with no eye) <hi>than having two eyes to bee
+<pb n="51" facs="tcp:40133:29"/>caſt into hell fire, where their worm dyeth not, and the fire is not quenched.</hi> Rev. 21.8. <hi>but the fearful</hi> (that is, ſuch as fear to part with ſin, and life, and all for Chriſt) <hi>and unbeleeving, and abomin<g ref="char:EOLhyphen"/>able, and Murderers, and Whoremongers, and Sorcerers, and Idolaters</hi> (ſuch are covetous men) <hi>and all lyars, ſhall have their part in the lake which burneth with fire and brimſtone, this is the ſecond death.</hi> Rev. 20.10. <hi>And the Devil that de<g ref="char:EOLhyphen"/>ceived them, was caſt into the lake of the fire, and the brimſtone, where the Beaſt and the falſe Prophets are, and ſhall bee tormented day and night for ever and ever,</hi> 2. Theſſ. 1.7, 8. <hi>When the Lord Jeſus ſhall bee revealed from heaven with his mighty Angels in flaming fire, taking vengeance on them that know not God, and that obey not the Goſpel of our Lord Jeſus Chriſt, who ſhall bee puniſhed with ever<g ref="char:EOLhyphen"/>laſting deſtruction, from the preſence of the Lord, and from the glory of his power.</hi> Now thou haſt read all theſe Texts, I cannot think thou wilt unſay them all, thou haſt the witneſs both of <hi>John</hi> and <hi>Paul,</hi> and Chriſt himſelf; I am ſure their teſtimony will paſſe in the Court
+<pb n="52" facs="tcp:40133:30"/>of Heaven, and there it is, and onely there, that thou muſt take thy trial, re<g ref="char:EOLhyphen"/>ceive thy ſentence, and bee ſent to this dreadful puniſhment; what haſt thou more to ſay?</p>
+               <p>The Sinners laſt Refuge.</p>
+               <p>
+                  <hi>I have here read, ſayeſt thou, That there is no ſalvation without I live an ex<g ref="char:EOLhyphen"/>ceeding righteous life, it is plain Scrip<g ref="char:EOLhyphen"/>ture, I cannot deny it; and ſurely my drunkenneſs, my ſwearing, lying, whore<g ref="char:EOLhyphen"/>ing, neglect of praying, reading, do not ſpeak mee an exceeding righteous man; What ſhall I do? ſhall I think my ſelf in ſo miſerable eſtate, that if I dye before I change my life, I muſt go to hell? Oh I dare not; what then? to leave my ſins? I will not, but how then? ſhall I keep them? if I do, the Scripture is plain, I cannot go to hea<g ref="char:EOLhyphen"/>ven; truly I know not what to ſay; but per<g ref="char:EOLhyphen"/>haps there may be ſome way to heaven that the Scripture doth not tell us of, I reſolve to venture it at leaſt, and I know I ſhall have many to bear mee company, and thus I will ſatisfie my ſelf, and continue as I am.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> A poor ſhift: Thou hopeſt
+<pb n="53" facs="tcp:40133:30"/>God will finde a way to ſave thee, that hee hath not revealed, that is in plain Engliſh thus, thou hopeſt that God hath told thee by Jeſus Chriſt, that ex<g ref="char:EOLhyphen"/>cept thou art more righteous than the Phariſees, thou canſt not bee ſaved, yet hee intendeth the quite contrary, and will ſave thee and others, though thou liveſt more wickedly than ever the Phariſees did: What is this but to put God the Father and Jeſus Chriſt at va<g ref="char:EOLhyphen"/>riance, and make them contradict each other? yea to think ſo impudently of God, that hee ſent his onely Son into the world to deceive and cheat it in a company of untruths, as this would bee one, if it ſhould ever bee, as thou art bold to hope.</p>
+               <p>But I have ſomewhat in my Text ſtill behinde, that will ſpoil thy hopes, and convince thee of this wicked ima<g ref="char:EOLhyphen"/>gination; ſayes my Text <hi>(Yee ſhall in no caſe enter)</hi> mark that <hi>(in no caſe)</hi> what do thoſe three words mean? Do they not plainly ſignifie, that God hath ſhut up all other wayes to heaven, or that there are no means left by which thou canſt poſſibly ſcape the miſery of the
+<pb n="54" facs="tcp:40133:31"/>damned, but onely this of becoming righteous?</p>
+               <p n="1">1 Perhaps thou thinkeſt to hide thy ſelf in the Grave, and to lurk cloſe in the corner of that dark room.</p>
+               <p>But Fool, never think of it, for the doors of thoſe chambers of death ſhall all flye open, the Trumpet ſhall ſound, and thou amongſt the reſt ſhalt ariſe, and ſtand up before him.</p>
+               <p n="2">2 Perhaps thou conceiveſt a way to eſcape by crying for mercy: Ah ſin<g ref="char:EOLhyphen"/>ner, that will not do neither, for then it will bee too late, there is no room for repentance, nor for mercy, when thou haſt once left this earth.</p>
+               <p n="3">3 What, doſt thou think to plead the blood of Chriſt? It will bee an<g ref="char:EOLhyphen"/>ſwered by Chriſt that ſhed it, that hee ſhed it only for the penitent, beleeving, godly ſinner, and thou art none of thoſe.</p>
+               <p n="4">4 Doſt thou think then to flye from the Juſtice of God the Son, to the Mer<g ref="char:EOLhyphen"/>cy of God the Father? and if thou ſhouldeſt, I tell thee, hee would ſend thee back again unto Chriſt his Son, and with all acquaint thee, that hee
+<pb n="55" facs="tcp:40133:31"/>hath committed all Judgement to his Son, and is reſolved to ſpare none that his Childe Jeſus will not ſave, and thou art ſure already of this, that Chriſt his Son will ſave none, but ſuch whoſe righteouſneſs hath exceeded that of the Phariſees. Read my Text, hath he not there ſaid it, and canſt thou think that upon his Judgement-ſeat hee will deny this Sermon, or this part of it that hee preached upon the earth? Shall ſo great a Judge as Chriſt, make a Law, and publiſh it on the earth, and then upon the Bench deny hee never ſaid ſo, or then repent it? no, no Sinner, it is im<g ref="char:EOLhyphen"/>poſſible hee ſhould deny himſelf, or his word.</p>
+               <p>Now Reader, if thou bee a man or woman, whoſe heart and life is not yet changed, if thou haſt not a righteouſ<g ref="char:EOLhyphen"/>neſs above the Phariſees, in what a ſad caſe doſt thou ſee thy ſelf, or at leaſt thou mayeſt, if thou wert not blinde; whither canſt thou turn thy ſelf, but thou muſt ſee hell and damnation be<g ref="char:EOLhyphen"/>fore thee, and ready to devoure thee?</p>
+               <p>Sinner. <hi>Oh Sir, What ſhall I do to bee ſaved?</hi>
+               </p>
+               <pb n="56" facs="tcp:40133:32"/>
+               <p>I tell thee how? there is one way left thee to ſalvation, and but one, and my Text hath told it, Endeavour to bee exceeding righteous in thy life, and that is the way to life; let thy love and faith to God and Chriſt Jeſus, let thy ſincere obedience to all his Commands to the utmoſt that tou art able, let thy thoughts, thy words, thy prayers, thy alms ſpeak thee a more righteous man or woman than the ſtricteſt Scribe and Phariſee that ever breathed upon the earth, this, this is the way to heaven. If after all this thou art reſolved to continue as thou art, thy blood bee on thine own head, I have diſcharged my duty.</p>
+               <p>Sinner. <hi>Lord have mercy upon mee! What a blinde wretch have I been, thus to miſtake my way! and think I have been going to heaven, when I now ſee plainly I am in the broad road to hell! Well, I thank God. I am not yet ſwallowed up of that gulph, Mercy hath hitherto kept mee out; and I am reſolved to abuſe long<g ref="char:EOLhyphen"/>ſuffering mercy not an hour longer. It is but leaving my drunken companions, and
+<pb n="57" facs="tcp:40133:32"/>my filthy Harlots, and who would not leave them to gain the love of God, and my bleſſed Saviour? It is but leaving my lying, ſwearing, and turning my curſes into prayers and bleſſings, and what harm is there in prayers and beſſings? I am ſure they will pleaſe my God better, and trouble my conference leſs. It is but lo<g ref="char:EOLhyphen"/>ving my neighbour as my ſelf, but eſpe<g ref="char:EOLhyphen"/>cially my God and Saviour, with all my heart, ſoul, and ſtrength; and to account of gold and ſilver, friends, credit, and my ſins, as dung and droſs in a compare to them, and I am ſure, that they are better than them all, and ſo they deſerve as much and more of love from mee: It is but to pray, praiſe, and thank them for the offer of eternal life, and to relye upon the blood of Jeſus for pardon and ac<g ref="char:EOLhyphen"/>ceptance, and I am ſure that Jeſus Chriſt will prove my faſteſt friend.</hi>
+               </p>
+               <p>Well, my reſolution is this, <hi>God, men, and Angels, ſhall ſee I am another man; Heaven ſhall ſee mee more on my knees in my Cloſet; it ſhall bee my next work when I have read out this book, my Family ſhall ſee and hear mee more in reading, and praying,</hi> I and my houſe
+<pb n="58" facs="tcp:40133:33"/>ſhall ſerve the Lord, <hi>and all my neigh<g ref="char:EOLhyphen"/>bours ſhall ſee mee walk in thoſe very wayes that I have formerly moſt pro<g ref="char:EOLhyphen"/>phanely laughed and ſcoffed at. I know it will bee my turn now to bee ſcorned, and derided by others, yea ſome of my fami<g ref="char:EOLhyphen"/>liar drunken companions; but what care I? Chriſt ſuffered more for my ſake, and I remember holy</hi> Paul, <hi>that was once a perſecuter of honeſt hearted Chriſtians, was afterwards content to bee perſecuted for being ſuch an one himſelf. But let them laugh on; I am ſure, I am a dying man, and if I keep on to follow Chriſt, I ſhall ſhortly bee in heaven, and then above their ſcorns, where I am ſure they will never come, if they repent not, and ſeek a righteouſneſs above the Phariſees.</hi>
+               </p>
+               <p>
+                  <hi>I have read what this righteouſneſs is, and now I will try it in my life, there is no more time for talk, I will up and do.</hi>
+               </p>
+               <p>
+                  <hi>Caution.</hi>
+               </p>
+               <p>Yea, and do ſo, thou Son or Daugh<g ref="char:EOLhyphen"/>ter of God, for ſo I dare call thee, if thou holdeſt this reſolution to the death. Onely let mee caution thee <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> whilſt thou art ſo ſet and reſolved
+<pb n="59" facs="tcp:40133:33"/>upon the work, Remember that of thy Saviour, <hi>Joh.</hi> 15.4, 5. <hi>As the branch cannot bear fruit of it ſelf, except it abide in the Vine, no more can yee, except yee abide in mee. I am the Vine, yee are the branches, hee that a<g ref="char:EOLhyphen"/>bideth in mee, and I in him, the ſame bringeth forth much fruit; for without mee yee can do nothing.</hi> And ſo <hi>Phil.</hi> 2.13. <hi>For it is God that worketh in you, both to will and to do, of his good plea<g ref="char:EOLhyphen"/>ſure.</hi> Again, <hi>Rom.</hi> 8.26. <hi>Likewiſe the Spirit helpeth our infirmities, for wee know not what wee ſhould pray for as wee ought, but the Spirit it ſelf maketh interceſsion for us with groanings that cannot bee ut<g ref="char:EOLhyphen"/>tered.</hi> 1 Cor. 10.12. <hi>Let him that think<g ref="char:EOLhyphen"/>eth hee ſtandeth, take heed leſt hee fall.</hi>
+               </p>
+               <p>By theſe Texts I would put thee in minde of thine own weakneſs, and ſelf-inſufficiency. Set to the working out thy ſalvation with fear and trembling, but look up to Chriſt thy treaſury, that hath a ſtock of grace and ſtrength for thee to ſpend upon till death, and to all eternity; and now let mee intreat thee to form thy concluſion thus with
+<pb n="60" facs="tcp:40133:34"/>the holy Apoſtle, <hi>Philip.</hi> 4.13. <hi>I can do all things through Chriſt that ſtrengthe<g ref="char:EOLhyphen"/>neth mee.</hi> Thou mayeſt with Chriſt do wonders, but without him juſt nothing. <hi>Ask and thou ſhalt have, ſeek and thou ſhalt finde, knock and it ſhall bee opened.</hi>
+               </p>
+               <p>And laſtly, I ſay unto thee, <hi>Watch and pray, leſt thou enter into temptation.</hi>
+               </p>
+               <p>
+                  <hi>Now the Lord bleſs thee, and make thy root to ſpread on the Mountain of the Lord, let his dews fall upon thee, and give thee to flouriſh as a pleaſant branch in the Vineyard of thy God. Let not that curſe come ever near thee? It is a barren tree, cut it down, why cumbers it the ground? but bee thou ever laden with fruit, that death may finde thee mellow, and ripe for Heaven.</hi>
+               </p>
+            </div>
+            <div type="postscript">
+               <pb facs="tcp:40133:34"/>
+               <head>A Poſtſcript.</head>
+               <p>I Am ſufficiently aware of what ex<g ref="char:EOLhyphen"/>ceptions the more curious may make againſt the management of this ſmall Diſcourſe, as</p>
+               <p n="1">1 That I have obſerved a method ſomewhat too looſe.</p>
+               <p n="2">2 That I have handled the <hi>Species</hi> before the <hi>Genus,</hi> that is, ſpoken to the nature of inherent righteouſneſs, with<g ref="char:EOLhyphen"/>out giving any account of righteouſ<g ref="char:EOLhyphen"/>neſs in general.</p>
+               <p n="3">3 That I have ſcarce touched upon the other <hi>ſpecies</hi> of righteouſneſs, which lyes in the active and paſſive obedience of our Lord and Saviour.</p>
+               <p n="4">4 That I have not handled fully the nature of inherent righteouſneſs, that is the ſubject of the whole, having neg<g ref="char:EOLhyphen"/>lected in a manner the explication of any of its affections.</p>
+               <p>And laſtly, that I have inſiſted too little on the Doctrinal part.</p>
+               <p>
+                  <hi>Anſw.</hi> It may bee ſome ſatisfaction to thee that I know my defects before thou telleſt mee of them; but thou muſt know,</p>
+               <pb facs="tcp:40133:35"/>
+               <p n="1">1 That I intended to have deliver<g ref="char:EOLhyphen"/>ed my whole minde on this ſubject in one ſheet, to make it as little charge<g ref="char:EOLhyphen"/>able as I could.</p>
+               <p n="2">2 That I intended it for the meaner ſort of my people, whom by long ob<g ref="char:EOLhyphen"/>ſervation I have found them to under<g ref="char:EOLhyphen"/>ſtand mee leaſt, when I think I ſpeak beſt, and moſt accurately.</p>
+               <p n="3">3 I do not conceive my method ſo looſe as thou mayeſt imagine, ſeeing I have all along kept cloſe to the parts of the Text (and if I miſtake not) they lye together in as good a poſture as the nature of things in their dependency can well bear.</p>
+               <p n="4">4 And as to my ſpeaking ſo little to the righteouſneſs of the Saints as is treaſured up in the active and ſuffering life and death of the Lord Jeſus,</p>
+               <p>I reply thus,</p>
+               <p n="1">1 I have not wholly omitted it, but have beſprinkled the whole with blood, that the attentive Reader may plainly ſee, that I little dreamed that the pureſt inherent righteouſneſs could bee meri<g ref="char:EOLhyphen"/>torious.</p>
+               <p n="2">2 And I was bound to follow the
+<pb facs="tcp:40133:35"/>intendments of the Text that points moſt directly at the righteouſneſs of the ſouls and ſpirits of men that muſt act them in their lives.</p>
+               <p n="3">3 And I knew, that it is this inward righteouſneſs the common people I ſpeak to, ſee leſſe need of, and it is their ignorance of this, which is the ordinary rock on which they ſplit, and it was my duty here to help to ſave them if I could.</p>
+               <p>If this will not ſatisfie thee, I cannot help it, I writ not to pleaſe all, but to profit ſome; if the Lord ſhall pleaſe to bleſs it to that end, it will content mee, though it doth not thee.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:40133:36"/>
+            <head>A Catalogue of ſome Books ſold and Printed for <hi>Andrew Kembe;</hi> at his Shop at St. <hi>Margarets</hi> Hill in <hi>Southwark.</hi>
+            </head>
+            <p>A Vew of holy Scriptures, by Mr. <hi>Hugh Broughton,</hi> Fol.</p>
+            <p>Ancient Funeral Monuments with<g ref="char:EOLhyphen"/>in the united Monarchy of <hi>Great Bri<g ref="char:EOLhyphen"/>tain, Ireland,</hi> and the Iſlands adjacent, their Founders, and what eminent perſons have been interred.</p>
+            <p>The Goſpel-Covenant, or the Co<g ref="char:EOLhyphen"/>venant of Grace opened, by <hi>Peter Buckly,</hi> ſometimes Fellow of Chriſts Colledge in <hi>Cambridge.</hi>
+            </p>
+            <p>Gods holy minde, in ten Words, or ten Commands, which hee himſelf ut<g ref="char:EOLhyphen"/>tered, and taught his Diſciples, by Queſtions and Anſwers, by the late learned and faithful Preacher Mr. <hi>Elton,</hi> late Paſtor of St. <hi>Mary Magdalen Bermondſy,</hi> near <hi>London,</hi> 4<hi rend="sup">o</hi>.</p>
+            <p>Arraignment of Errour, by Doct. <hi>Samuel Bolton,</hi> late Maſter of Chriſts Colledge in <hi>Cambridge.</hi>
+            </p>
+            <pb facs="tcp:40133:36"/>
+            <p>Bounds of Chriſtian Freedome.</p>
+            <p>The Expoſition of the five firſt Chapters of <hi>Ezekiel,</hi> with the other three parts, 4<hi rend="sup">o</hi>.</p>
+            <p>All Mr. <hi>Henry Smiths</hi> Sermons ga<g ref="char:EOLhyphen"/>thered into one Volume, with his Life' and Picture.</p>
+            <p>Mr. <hi>Dod</hi> on the Commandments, 4<hi rend="sup">o</hi>.</p>
+            <p>Military Diſcipline, the exacteſt way, or the young mans Artillery, wherein is ſhewn the poſture both of Musket and pike; Whereunto is added the poſtures and uſe of the half Pike joyned with Musket, by Col. <hi>Wil. Barriff.</hi>
+            </p>
+            <p>The Art of Dialling, or Court of Arts, By <hi>S. M.</hi>
+            </p>
+            <p>Mr. <hi>Slater</hi> on the fourth of the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> 4<hi rend="sup">o</hi>.</p>
+            <p>Alſo on the book of <hi>Malachy.</hi>
+            </p>
+            <p>
+               <hi>Dariotts</hi> Judgement of the Stars; containing the whole Art of Aſtro<g ref="char:EOLhyphen"/>logy.</p>
+            <p>
+               <hi>Hudſons</hi> Vindication of the Church Catholick viſible, and the priority thereof, in regard of particular Churches.</p>
+            <p>Alſo an Addition, or Poſtſcript to the Church Catholick viſible.</p>
+            <pb facs="tcp:40133:37"/>
+            <p>Mr. <hi>Cradico<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> Sermon preached at the Spittle, 4<hi rend="sup">o</hi>.</p>
+            <p>The Guard to the Tree of Life, by Dr. <hi>Samuel Bolton,</hi> late Maſter of Chriſts Colledge in <hi>Cambridge.</hi>
+            </p>
+            <list>
+               <head>Octavoes.</head>
+               <item>Mr. <hi>Goodwin</hi> on the Sacrament.</item>
+               <item>On Family Duties.</item>
+               <item>On the Sabbath.</item>
+               <item>
+                  <hi>Bradſhaw</hi> on the Sacrament.</item>
+               <item>Mr. <hi>Ford</hi> of the ſinging of Pſalms.</item>
+               <item>
+                  <hi>Bakers</hi> Arithmetick.</item>
+               <item>Mr. <hi>Tippin</hi> of Eternity.</item>
+               <item>Dr. <hi>Sibbs</hi> on Canticles.</item>
+               <item>
+                  <hi>Ameſius</hi> upon the whole Book of Pſalms, &amp; the two Epiſtles of <hi>Peter.</hi>
+               </item>
+               <item>
+                  <hi>Francis Spira.</hi>
+               </item>
+            </list>
+            <list>
+               <head>School-Books.</head>
+               <item>
+                  <hi>Farnabies</hi> Phraſes.</item>
+               <item>
+                  <hi>Farnaby</hi> on <hi>Seneca.</hi>
+               </item>
+               <item>
+                  <hi>Farnaby</hi> on <hi>Juvenal</hi> and <hi>Perſius.</hi>
+               </item>
+               <item>
+                  <hi>Farnaby</hi> on <hi>Martial.</hi>
+               </item>
+               <item>
+                  <hi>Farnabies</hi> Epigrams, <hi>Greek</hi> &amp; <hi>Latine.</hi>
+               </item>
+               <item>
+                  <hi>Dux Grammaticus,</hi> by Mr. <hi>Clark.</hi>
+               </item>
+               <item>
+                  <hi>Matropedius de conſcribend is Epiſtolis.</hi>
+               </item>
+               <item>
+                  <hi>Vigerius Idiotiſm. Graecae Lingua</hi>
+               </item>
+               <item>
+                  <hi>Ovids Metamorphoſis,</hi> Grammati<g ref="char:EOLhyphen"/>cally tranſlated by Mr. <hi>Brinſly.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:40133:37"/>
+         </div>
+      </back>
+   </text>
+</TEI>
